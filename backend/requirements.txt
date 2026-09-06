@@ -10,6 +10,7 @@ cryptography==49.0.0
 distro==1.9.0
 Flask==3.1.3
 flask-cors==6.0.5
+bcrypt
 google-ai-generativelanguage==0.6.15
 google-api-core==2.25.2
 google-api-python-client==2.198.0
