@@ -47,7 +47,10 @@ import uuid
 
 app = Flask(__name__)
 
-app.config["SECRET_KEY"] = "careerlens_ai_secret_2026"
+app.config["SECRET_KEY"] = os.getenv(
+    "SECRET_KEY",
+    "careerlens_ai_secret_2026"
+)
 
 CORS(app)
 
