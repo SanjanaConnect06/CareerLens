@@ -1,4 +1,4 @@
-# 🚀 CareerLens AI
+# CareerLens
 
 ### AI-Powered Career Guidance & Interview Preparation Platform
 
